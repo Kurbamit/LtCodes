@@ -19,7 +19,7 @@ using System.Reflection;
       digits based on the Lithuanian ID number format.
     ")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+363831d228e1664b9ba8ad3fa6bdbf5866d946c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("LtCodes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LtCodes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
