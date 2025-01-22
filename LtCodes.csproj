@@ -17,7 +17,7 @@
       digits based on the Lithuanian ID number format.
     </Description>
     <PackageTags>ltcodes, personal-identification, validation, Lithuanian</PackageTags>
-    <RepositoryUrl>https://github.com/yourusername/LtCodes</RepositoryUrl>
+    <RepositoryUrl>https://github.com/Kurbamit/LtCodes</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
