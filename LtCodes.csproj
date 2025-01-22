@@ -20,4 +20,8 @@
     <RepositoryUrl>https://github.com/Kurbamit/LtCodes</RepositoryUrl>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="/" />
+  </ItemGroup>
+
 </Project>
