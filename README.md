@@ -24,13 +24,13 @@ You can install the LtCodes package from NuGet:
 
 bash
 ```
-Install-Package LtCodes
+Install-Package DominykasC.Tools.LtCodes
 ```
 
 Or via the .NET CLI:
 
 ```
-dotnet add package LtCodes
+dotnet add package DominykasC.Tools.LtCodes --version 1.0.0
 ```
 
 ## Example code
