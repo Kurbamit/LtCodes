@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>DominykasC.Tools.LtCodes</PackageId>
+    <Version>1.0.0</Version>
+    <Author>Dominykas Cernovas</Author>
+    <Product>LtCodes</Product>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <Description>
+      LtCodes is a .NET library that provides functionality for validating and generating Lithuanian
+      personal identification codes. It includes methods for calculating control numbers, checking
+      the validity of codes, and extracting relevant information like birthdate, gender, and control
+      digits based on the Lithuanian ID number format.
+    </Description>
+    <PackageTags>ltcodes, personal-identification, validation, Lithuanian</PackageTags>
+    <RepositoryUrl>https://github.com/yourusername/LtCodes</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
